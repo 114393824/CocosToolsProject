@@ -74,6 +74,7 @@ xcschememanagement.plist
 ._.*
 xcuserdata/
 DerivedData/
+/runtime/mac/
 
 
 # Ignore files built by AppCode
